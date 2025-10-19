@@ -43,6 +43,15 @@ You can modify or replace this dataset with your own to customize the analysis.
 
 ---
 
+##     Preview 
+
+<p>
+   <img src="1_1_data_preparation.xlsx - Excel (Product Activation Failed) 10_19_2025 10_29_47 AM.png" alt="Overview Dasboard" width="800">
+</p>
+
+
+---
+
 ## ⚙️ Tools & Technologies
 - **Excel / Power BI** for data visualization  
 - **Python (Pandas, Matplotlib, Seaborn)** for preprocessing (optional)
